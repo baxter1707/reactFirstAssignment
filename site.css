@@ -1,0 +1,27 @@
+/* HEADER SECTION */
+
+.header {
+  display: flex;
+  flex-direction: row;
+  background-color: blue;
+  color: white;
+}
+
+.header h3 {
+  margin: 1.8em 0 0 2.8em;
+}
+
+/* DESCRIPTION SECTION */
+.description-section {
+  background-color: gray;
+  color: white;
+}
+
+/* ARTICLES SECTION */
+.article h4{
+  color:blue;
+}
+
+.comment-section {
+  background-color: orange;
+}
